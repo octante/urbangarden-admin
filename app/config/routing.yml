@@ -1,0 +1,11 @@
+admin_app:
+    resource: "@AdminAppBundle/Resources/config/routing.yml"
+    prefix:   /
+
+urban_calendar:
+    resource: "@UrbanCalendarBundle/Resources/config/routing.yml"
+    prefix:   /
+
+urban_blog:
+    resource: "@UrbanBlogBundle/Resources/config/routing.yml"
+    prefix:   /
