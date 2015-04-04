@@ -19,7 +19,6 @@ class AppKernel extends Kernel
             new Urban\BlogBundle\UrbanBlogBundle(),
             new Urban\CalendarBundle\UrbanCalendarBundle(),
             new Admin\AppBundle\AdminAppBundle(),
-            new Front\AppBundle\FrontAppBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
