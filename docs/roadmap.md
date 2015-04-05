@@ -22,11 +22,11 @@ MVP:
 
 - [ ] Install an administration template. Bootstrap template is a good option.
 - [ ] Basic login page and basic authentication system.
-- [ ] Blog post administration:
+- [ ] Timeline updates administration:
 	- [ ] Insert a post.
 	- [ ] Modify a post.
 	- [ ] Delete a post.
-	- [ ] View all user posts list.
+	- [ ] View all user updates list.
 
 ## 2.0
 
